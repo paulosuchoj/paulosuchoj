@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulosuchoj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosuchoj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Linkedin: paulo-suchoj](https://img.shields.io/badge/-paulo-suchoj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-suchoj/)](https://www.linkedin.com/in/paulo-suchoj/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/paulosuchoj?style=social)](https://github.com/paulosuchoj)
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulosuchoj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosuchoj&layout=compact&theme=radical"/>
+</div>
