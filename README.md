@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin: paulo-suchoj](https://img.shields.io/badge/paulo-suchoj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-suchoj/)](https://www.linkedin.com/in/paulo-suchoj/)
+[![Linkedin: paulo-suchoj](https://img.shields.io/badge/paulosuchoj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-suchoj/)](https://www.linkedin.com/in/paulo-suchoj/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/paulosuchoj?style=social)](https://github.com/paulosuchoj)
 
 <div>
