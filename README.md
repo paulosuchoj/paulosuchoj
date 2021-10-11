@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <p>I'm a junior software engineer at <a href="https://www.scania.com/br/pt/home.html">Scania Latin America</a>, based in São Paulo, Brazil. I mainly work with Python, C#, HTML5, CSS3 and Angular. I've been working in IT since 2011, and my previous experience includes customer support, incident management and identity and access management. At the moment I'm trying to break into data science, a field I'm very passionate about.<br><br>
+  <p>I'm a junior software engineer based in São Paulo, Brazil. I mainly work with Python, C#, HTML5, CSS3 and Angular. I've been working in IT since 2011, and my previous experience includes customer support, incident management and identity and access management. At the moment I'm trying to break into data science, a field I'm very passionate about.<br><br>
     Huge nerd deeply entrenched in Final Fantasy XIV and all things gaming. Also I love languages and I speak Portuguese :brazil:, English 🇺🇸, French 🇫🇷, German 🇩🇪 and Japanese 🇯🇵!</p>
   
 [![Linkedin: paulo-suchoj](https://img.shields.io/badge/paulosuchoj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-suchoj/)](https://www.linkedin.com/in/paulo-suchoj/)
