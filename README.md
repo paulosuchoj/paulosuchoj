@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     I love music (symphonic metal, post-metal, post-rock and shoegaze as well as soundtracks), fantasy and sci-fi books, movies and languages! I speak Portuguese :brazil:, English 🇺🇸, French 🇫🇷, German 🇩🇪 and a tiny bit of Japanese 🇯🇵 (currently learning)!</p>
   
 [![Linkedin: paulo-suchoj](https://img.shields.io/badge/paulosuchoj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-suchoj/)](https://www.linkedin.com/in/paulo-suchoj/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/paulosuchoj?style=social)](https://github.com/paulosuchoj)
+[![GitHub Paulo](https://img.shields.io/github/followers/paulosuchoj?style=social)](https://github.com/paulosuchoj)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulosuchoj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
